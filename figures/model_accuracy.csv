@@ -1,0 +1,5 @@
+Model,Accuracy
+Logistic Regression,0.8135
+LDA,0.8151666666666667
+kNN (k=5),0.8041666666666667
+Neural Network,0.785
